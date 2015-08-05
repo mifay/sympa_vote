@@ -1,0 +1,378 @@
+	<StyleMap id="pourcentage0a4_principal">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#pourcentage0a4_standard</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#pourcentage0a4_selection</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="pourcentage0a4_standard">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>37aa0000</color>
+			<width>5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>37aa0000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="pourcentage0a4_selection">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>37aa0000</color>
+			<width>5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>37aa0000</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="pourcentage5a9_principal">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#pourcentage5a9_standard</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#pourcentage5a9_selection</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="pourcentage5a9_standard">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>50aa0000</color>
+			<width>5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>50aa0000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="pourcentage5a9_selection">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>50aa0000</color>
+			<width>5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>50aa0000</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="pourcentage10a14_principal">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#pourcentage10a14_standard</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#pourcentage10a14_selection</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="pourcentage10a14_standard">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>69aa0000</color>
+			<width>5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>69aa0000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="pourcentage10a14_selection">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>69aa0000</color>
+			<width>5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>69aa0000</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="pourcentage15a19_principal">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#pourcentage15a19_standard</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#pourcentage15a19_selection</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="pourcentage15a19_standard">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>82aa0000</color>
+			<width>5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>82aa0000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="pourcentage15a19_selection">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>82aa0000</color>
+			<width>5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>82aa0000</color>
+		</PolyStyle>
+	</Style>   
+	<StyleMap id="pourcentage20a24_principal">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#pourcentage20a24_standard</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#pourcentage20a24_selection</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="pourcentage20a24_standard">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>9baa0000</color>
+			<width>5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>9baa0000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="pourcentage20a24_selection">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>9baa0000</color>
+			<width>5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>9baa0000</color>
+		</PolyStyle>
+	</Style>   
+	<StyleMap id="pourcentage25a29_principal">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#pourcentage25a29_standard</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#pourcentage25a29_selection</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="pourcentage25a29_standard">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>b4aa0000</color>
+			<width>5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>b4aa0000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="pourcentage25a29_selection">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>b4aa0000</color>
+			<width>5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>b4aa0000</color>
+		</PolyStyle>
+	</Style> 
+	<StyleMap id="pourcentage30a34_principal">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#pourcentage30a34_standard</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#pourcentage30a34_selection</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="pourcentage30a34_standard">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>cdaa0000</color>
+			<width>5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>cdaa0000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="pourcentage30a34_selection">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>cdaa0000</color>
+			<width>5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>cdaa0000</color>
+		</PolyStyle>
+	</Style> 
+	<StyleMap id="pourcentage35a39_principal">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#pourcentage35a39_standard</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#pourcentage35a39_selection</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="pourcentage35a39_standard">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>e6aa0000</color>
+			<width>5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>e6aa0000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="pourcentage35a39_selection">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>e6aa0000</color>
+			<width>5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>e6aa0000</color>
+		</PolyStyle>
+	</Style> 
+	<StyleMap id="pourcentage40plus_principal">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#pourcentage40plus_standard</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#pourcentage40plus_selection</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="pourcentage40plus_standard">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffaa0000</color>
+			<width>5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffaa0000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="pourcentage40plus_selection">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffaa0000</color>
+			<width>5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffaa0000</color>
+		</PolyStyle>
+	</Style> 

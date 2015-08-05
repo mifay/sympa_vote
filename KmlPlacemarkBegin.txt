@@ -1,0 +1,1 @@
+<Placemark><name>bob</name><styleUrl>#m_ylw-pushpin</styleUrl><Polygon><tessellate>1</tessellate><outerBoundaryIs><LinearRing><coordinates>
